@@ -164,7 +164,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "loadSet_0x01.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
